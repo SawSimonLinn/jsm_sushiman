@@ -37,6 +37,10 @@ This project is part of a course from JavaScript Mastery.
 - High Quality Image
 - Pixel Perfect
 
+## Deployed Site
+
+You can view the deployed site at [SUSHIMAN](https://sawsimonlinn.github.io/sushiman/)
+
 ## License
 
 This project is licensed under the MIT License.
