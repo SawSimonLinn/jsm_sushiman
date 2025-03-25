@@ -2,7 +2,7 @@
 
 ## Description
 
-A brief description of what the Sushi project is about.
+This website features a massive hero section, a detailed menu showcasing various sushi dishes, food services information, and an about us section to learn more about the sushi restaurant.
 
 ## Installation
 
