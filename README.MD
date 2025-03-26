@@ -39,7 +39,7 @@ This project is part of a course from JavaScript Mastery.
 
 ## Deployed Site
 
-You can view the deployed site at [SUSHIMAN](https://sawsimonlinn.github.io/sushiman/)
+You can view the deployed site at [SUSHIMAN](https://sawsimonlinn.github.io/jsm_sushiman/)
 
 ## License
 
